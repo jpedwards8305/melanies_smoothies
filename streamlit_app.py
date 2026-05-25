@@ -1,4 +1,5 @@
 # Import python packages
+pip install snowflake-snowpark-python
 import streamlit as st
 from snowflake.snowpark.functions import col
 st.title(":cup_with_straw: Customize Your Smoothie!:cup_with_straw:")
